@@ -12,3 +12,4 @@ C:\Users\TEMP.ADVENTISTAS.002\UnaspBet\UnaspBet\obj\Debug\net9.0\refint\UnaspBet
 C:\Users\TEMP.ADVENTISTAS.002\UnaspBet\UnaspBet\obj\Debug\net9.0\UnaspBet.pdb
 C:\Users\TEMP.ADVENTISTAS.002\UnaspBet\UnaspBet\obj\Debug\net9.0\UnaspBet.genruntimeconfig.cache
 C:\Users\TEMP.ADVENTISTAS.002\UnaspBet\UnaspBet\obj\Debug\net9.0\ref\UnaspBet.dll
+C:\Users\TEMP.ADVENTISTAS.002\UnaspBet\UnaspBet\obj\Debug\net9.0\UnaspBet.sourcelink.json
